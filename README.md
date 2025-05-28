@@ -13,5 +13,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## To Run App
 
-#npm install (in terminal)
-#npm run dev
+First run this command in terminal to download all dependencies (npm install)
+Then to run App run this command (npm run dev)
